@@ -7,6 +7,7 @@
     "folds" : "",
     "hash" : "2835582168",
     "id" : "D6F36F38",
+<<<<<<< HEAD:.Rproj.user/F161BF55/sources/per/t/D6F36F38
     "lastKnownWriteTime" : 1538552591,
     "last_content_update" : 1538552591219,
     "path" : "C:/inclassProject/20180926-1.Rmd",
@@ -14,6 +15,15 @@
     "properties" : {
         "chunk_output_type" : "inline",
         "cursorPosition" : "116,0",
+=======
+    "lastKnownWriteTime" : 1537952958,
+    "last_content_update" : 1537952958042,
+    "path" : "~/GitHub/inclassProject/20180926-1.Rmd",
+    "project_path" : "20180926-1.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "110,15",
+>>>>>>> 2b7aedac899fa67aa3854ef2b99a7736091fade9:.Rproj.user/F161BF55/sources/per/t/D6F36F38
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
