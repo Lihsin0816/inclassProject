@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538552986169.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "523994327",
+    "id" : "EF3961FF",
+    "lastKnownWriteTime" : 1538557080,
+    "last_content_update" : 1538557080869,
+    "path" : "C:/inclassProject/2018-10-03-1.Rmd",
+    "project_path" : "2018-10-03-1.Rmd",
+    "properties" : {
+        "cursorPosition" : "60,4",
+        "scrollLine" : "29",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
